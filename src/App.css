@@ -189,13 +189,13 @@
   background-color: #fff;
 }
 
-.results-table td.min-price {
+.results-table td.max-price {
   background-color: #d4edda;
   color: #155724;
   font-weight: bold;
 }
 
-.results-table td.max-price {
+.results-table td.min-price {
   background-color: #f8d7da;
   color: #721c24;
   font-weight: bold;
